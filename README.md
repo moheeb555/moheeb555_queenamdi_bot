@@ -19,11 +19,11 @@
 
 ### Visit our official Queen Amdi 4.0v [Multi-Device] website for deploy instructions
 
-**[» Official Website](https://amdaniwasa.com)**
+**[» Official Website](https://moheebarif786.com)**
 
 ### You can join our Beta Testing WhatsApp Group by this invite link
 
-**[» Join beta test group](https://chat.whatsapp.com/Kk9FcrtGYzX1xzky4b1aCJ)**
+**[» Join beta test group](https://chat.whatsapp.com/Fv0C591XStEBt64FjKr03D)**
 
 ### For heroku deployers: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
@@ -31,7 +31,7 @@
 
 **[» See other deploy methods](https://amdaniwasa.com/#install)**
 
-## 🐝 Queen Amdi Team - A.N.Tech *[ Since 2016 ]*
+## 🐝 Moheeb Arif Khokhar - M.A.K.Tech *[ Since 2016 ]*
 
 | <a href="https://amdaniwasa.com"><img src="https://avatars.githubusercontent.com/u/83172207?v=4" width=80 height=80></a> | <a href="https://www.instagram.com/sinhalaya_official_/"><img src="https://avatars.githubusercontent.com/u/89065560?v=4" width=80 height=80></a> | <a href="https://www.instagram.com/saji_x.x_4/"><img src="https://avatars.githubusercontent.com/u/88334967?v=4" width=80 height=80></a> |
 |---|---|---|
